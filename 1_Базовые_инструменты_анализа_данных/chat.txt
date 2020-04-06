@@ -1,0 +1,460 @@
+19:56:48	 From Оля : Добрый вечер!
+19:57:50	 From Алексей  To  All Panelists : Добрый вечер!
+19:58:01	 From Онлайн Otus : Добрый вечер!
+19:58:16	 From Anatoliy Pozdeyev : добрый!
+19:58:28	 From e.soskov  To  All Panelists : Добрый!
+19:58:39	 From Ilya Sokolov  To  All Panelists : Добрый вечер!
+19:58:51	 From Григорий Балабанов  To  All Panelists : Добрый вечер!
+19:58:54	 From Vladimir Vetoshkin  To  All Panelists : Вечер добрый!
+19:59:23	 From Zaraysky : всем добрый вечер
+20:00:25	 From Alex Zaytsev : Хей =)
+20:00:50	 From Anton  To  All Panelists : Добрый вечер.
+20:01:05	 From Alex  To  All Panelists : +
+20:01:15	 From Григорий Балабанов  To  All Panelists : 2
+20:01:17	 From ds.andreev  To  All Panelists : 2
+20:01:22	 From Pavel  To  All Panelists : 2
+20:01:22	 From Anton  To  All Panelists : 2
+20:01:23	 From Taras Stotsky : 2
+20:01:23	 From Vasily Sukharev  To  All Panelists : 2
+20:01:23	 From Vladimir  To  All Panelists : 2
+20:01:24	 From Vladimir Vetoshkin : 2
+20:01:24	 From Alex  To  All Panelists : 2
+20:01:24	 From Roman Zakharov  To  All Panelists : 2
+20:01:25	 From Anatoly Chichikov : 2
+20:01:25	 From Alex  To  All Panelists : 2
+20:01:27	 From Алексей : 1
+20:01:27	 From e.soskov  To  All Panelists : 2
+20:01:27	 From Evgeny  To  All Panelists : 2
+20:01:27	 From AN_QWE  To  All Panelists : 1
+20:01:28	 From Anatoliy Pozdeyev : 2
+20:01:28	 From Mikhail Gorshkov  To  All Panelists : 2
+20:01:30	 From Ignatova Natalia : 2
+20:01:31	 From Оля : 2
+20:01:32	 From Алексей : 2
+20:01:37	 From Алексей : 2
+20:01:38	 From Ilya Sokolov  To  All Panelists : 2
+20:01:38	 From Roman Zakharov : 2
+20:01:38	 From Alex  To  All Panelists : 2
+20:01:38	 From Evgeny  To  All Panelists : 2
+20:01:38	 From Григорий Балабанов  To  All Panelists : 2
+20:01:38	 From Vladimir Vetoshkin : 2
+20:01:38	 From Vladimir  To  All Panelists : 2
+20:01:38	 From Taras Stotsky : 2
+20:01:38	 From e.soskov  To  All Panelists : 2
+20:01:39	 From Anton  To  All Panelists : 2
+20:01:39	 From Оля : 2
+20:01:39	 From Mikhail Gorshkov  To  All Panelists : 2
+20:01:39	 From ds.andreev  To  All Panelists : 2
+20:01:39	 From AN_QWE  To  All Panelists : 2
+20:01:40	 From Dzhabrailov  To  All Panelists : 2
+20:01:40	 From Ignatova Natalia : 2
+20:01:40	 From Alex  To  All Panelists : 2
+20:01:41	 From Anatoly Chichikov : 2
+20:02:06	 From Vasily Sukharev  To  All Panelists : Подождите минут 5, пока все подключатся
+20:09:41	 From Оля : Как понять реализовать библиотеку ML?
+20:11:46	 From Оля : типа scikit реализовать?)
+20:11:58	 From Ilya Sokolov  To  All Panelists : проект показывается работадателю? На сколько тогда им будет интересно теоретическая реализация библиотеки по сравнению с практическим примером?
+20:12:38	 From Оля : Не поняла про 1 раз в неделю? Разве не 2 раза в неделю у нас вебинары?
+20:13:15	 From ThePureMind  To  All Panelists : У нас появился третий преподаватель. По нему есть информация?
+20:13:25	 From Vasily Sukharev  To  All Panelists : У нас первые три занятия - раз в неделю . Потом - два раза в неделю.
+20:13:45	 From Оля : получается первый месяц идет 2?
+20:15:56	 From Vasily Sukharev  To  All Panelists : Вопрос: слайды презентации будут в доступе после лекции для скачивания ?
+20:16:44	 From AN_QWE  To  All Panelists : следующее занятие 30 августа?
+20:19:42	 From Zaraysky : 2
+20:19:44	 From Dzhabrailov  To  All Panelists : 2
+20:19:44	 From Павел Вишин  To  All Panelists : 2
+20:19:44	 From Mikhail Gorshkov  To  All Panelists : 2
+20:19:45	 From Evgeny  To  All Panelists : 2
+20:19:45	 From Taras Stotsky : w
+20:19:45	 From Alex : 2
+20:19:46	 From Ignatova Natalia : 2
+20:19:46	 From evgeny b : 2
+20:19:46	 From Алексей : 2
+20:19:46	 From AN_QWE  To  All Panelists : 2
+20:19:46	 From Григорий Балабанов  To  All Panelists : 2
+20:19:46	 From Denis  To  All Panelists : 2
+20:19:47	 From Vladimir Vetoshkin : 2
+20:19:47	 From Оля : 2
+20:19:47	 From Anatoly Chichikov : 2
+20:19:48	 From e.soskov  To  All Panelists : 2
+20:19:48	 From Ilya Sokolov : 2
+20:19:49	 From Andrey Akutin : 2
+20:19:50	 From Anton  To  All Panelists : 2
+20:19:50	 From Artem  To  All Panelists : 2
+20:19:50	 From oleg : 2
+20:19:50	 From Vladimir : 2
+20:19:54	 From Андрей Щукин : 2
+20:20:01	 From Онлайн Otus  To  Григорий Балабанов and  All Panelists : https://docs.google.com/forms/d/1owBYbFjG38zSW_hLPhdXc37fSOfRrenr4QCzxXua6dU/edit
+20:20:27	 From evgeny b : в зуме нет ссылки
+20:20:44	 From Pavel  To  All Panelists : в чате зума почему-то не видно части сообщений, в том числе ссылки
+20:20:49	 From Онлайн Otus : https://docs.google.com/forms/d/1owBYbFjG38zSW_hLPhdXc37fSOfRrenr4QCzxXua6dU/edit
+20:21:08	 From Pavel  To  All Panelists : 2
+20:21:08	 From Vladimir Vetoshkin : 2
+20:21:08	 From Алексей : 2
+20:21:08	 From ds.andreev  To  All Panelists : 2
+20:21:09	 From Alex  To  All Panelists : -+2
+20:21:12	 From Mikhail Gorshkov  To  All Panelists : 2
+20:21:13	 From Dmitrii  To  All Panelists : 2
+20:21:14	 From Vladimir : 2
+20:21:14	 From Ilya Sokolov : 2
+20:21:40	 From Zhan : 2
+20:22:30	 From Онлайн Otus  To  Pavel and  All Panelists : https://docs.google.com/forms/d/1E0PcKweFFHJ7TvKSaGiStL-BQePptuHBdqHd-UK1aBI/
+20:23:01	 From pronect : 11
+20:23:11	 From Zhan : Сейчас не отправлять?
+20:23:15	 From Zhan : Я прослушал
+20:23:26	 From Zhan : заполнил
+20:23:32	 From Stanislav : ссылки в зуме опять нет
+20:23:38	 From evgeny b : зуууууум
+20:23:39	 From ds.andreev  To  All Panelists : ссылка в зуме
+20:23:42	 From Онлайн Otus  To  ds.andreev and  All Panelists : https://docs.google.com/forms/d/1E0PcKweFFHJ7TvKSaGiStL-BQePptuHBdqHd-UK1aBI/
+20:23:43	 From Vladimir : Какие 2? Я ответил на 1
+20:23:47	 From Онлайн Otus : https://docs.google.com/forms/d/1E0PcKweFFHJ7TvKSaGiStL-BQePptuHBdqHd-UK1aBI/
+20:24:03	 From Vladimir Vetoshkin : 2
+20:24:04	 From Zaraysky : 2
+20:24:05	 From Anatoliy Pozdeyev : 2
+20:24:09	 From Vladimir : 2
+20:24:12	 From Anton  To  All Panelists : 2
+20:24:12	 From e.soskov  To  All Panelists : 2
+20:24:48	 From Mikhail Gorshkov  To  All Panelists : по numpy и pandas тоже проходить опросники?
+20:25:07	 From Mikhail Gorshkov  To  All Panelists : если вообще не в курсе, то что отвечать?
+20:25:59	 From Dzhabrailov  To  All Panelists : 2
+20:26:31	 From Mikhail Gorshkov  To  All Panelists : 1
+20:26:31	 From Павел Вишин  To  All Panelists : 1
+20:26:32	 From Anton  To  All Panelists : 1
+20:26:33	 From Григорий Балабанов  To  All Panelists : 1
+20:26:33	 From Vladimir : 1
+20:26:33	 From Андрей Щукин : 1
+20:26:34	 From Andrey Akutin : 1
+20:26:34	 From Алексей : 1
+20:26:35	 From Zhan : 1
+20:26:37	 From Zaraysky : 1
+20:26:37	 From e.soskov  To  All Panelists : 1
+20:26:41	 From evgeny b : 1 - но можно не ждать)
+20:39:07	 From ds.andreev  To  All Panelists : 2
+20:39:08	 From Zaraysky : 2
+20:39:09	 From e.soskov  To  All Panelists : 2
+20:39:09	 From Анна  To  All Panelists : 2
+20:39:10	 From Ilya Sokolov : 2
+20:39:10	 From Павел Вишин  To  All Panelists : 2
+20:39:10	 From timur aipov : 2
+20:39:10	 From oleg : 2
+20:39:10	 From Dzhabrailov  To  All Panelists : 2
+20:39:10	 From Vladimir Vetoshkin : 2
+20:39:11	 From Григорий Балабанов  To  All Panelists : 2
+20:39:11	 From Алексей : 2
+20:39:11	 From Андрей Щукин : 2
+20:39:11	 From Vladimir : 2
+20:39:11	 From Anatoly Chichikov : 2
+20:39:11	 From Roman Zakharov : 2
+20:39:12	 From Dmitrii  To  All Panelists : 2
+20:39:12	 From Alex  To  All Panelists : 2
+20:39:13	 From Anton  To  All Panelists : 2
+20:39:13	 From Ignatova Natalia : 2
+20:39:13	 From Artem  To  All Panelists : 2
+20:39:13	 From AN_QWE  To  All Panelists : 2
+20:39:14	 From Mikhail Gorshkov  To  All Panelists : 2
+20:39:14	 From Evgeny  To  All Panelists : 2
+20:39:17	 From Andrey Akutin : 2
+20:39:18	 From Azat_Burkhanov : 2
+20:39:19	 From ThePureMind  To  All Panelists : Какова точность данных прогнозов (1 и 2 задача) и каков исходный датасет?
+20:39:22	 From Zhan : 2
+20:46:55	 From Zaraysky : 2
+20:46:55	 From Ilya Sokolov : 2
+20:46:56	 From ds.andreev  To  All Panelists : 2
+20:46:56	 From Azat_Burkhanov : 2
+20:46:56	 From Vladimir Vetoshkin : 2
+20:46:57	 From Mikhail Gorshkov  To  All Panelists : 2
+20:46:57	 From e.soskov  To  All Panelists : 2
+20:46:57	 From AN_QWE  To  All Panelists : 2
+20:46:57	 From Павел Вишин  To  All Panelists : 2
+20:46:57	 From Григорий Балабанов  To  All Panelists : 2
+20:46:57	 From Alex Zaytsev  To  All Panelists : 2
+20:46:57	 From evgeny b : 2
+20:46:58	 From Алексей : 2
+20:46:58	 From Anatoliy Pozdeyev : 2
+20:46:59	 From Dmitrii  To  All Panelists : 2
+20:47:00	 From Stanislav : 2
+20:47:00	 From Evgeny  To  All Panelists : 2
+20:47:01	 From oleg : 2
+20:47:01	 From Ignatova Natalia : 2
+20:47:01	 From Anatoly Chichikov : 2
+20:47:02	 From Vladimir : 2
+20:47:04	 From Anton  To  All Panelists : 2
+20:47:04	 From Artem  To  All Panelists : 2
+20:47:12	 From Анна  To  All Panelists : 2
+20:47:16	 From Vladimir : Где отображаются вопросы?
+20:47:24	 From Dmitrii  To  All Panelists : олимпиадные кольца научились кластеризовать?
+20:47:39	 From Оля : народ пишет вопросы, которые видны только лектору
+20:47:54	 From Vladimir : Спасибо, понял.
+20:48:08	 From Pavel : но лучше так не делать, а писать чтобы видели все
+20:48:13	 From evgeny b : Поставьте галочку, те кто пишет "All panellist and attendees"
+20:48:22	 From evgeny b : Чтобы все видели
+20:48:39	 From Оля : Вроде если больше 75% то это замечательный результат?
+20:49:08	 From ds.andreev  To  All Panelists : для какой-то задачи да, а для какой-то и 90% будет мало
+20:49:27	 From Vasily Sukharev  To  All Panelists : Все зависит от конкретной задачи
+20:49:42	 From Azat_Burkhanov : sklearn вообще ходовая библиотека либо для обучалок больше?
+20:49:43	 From evgeny b : Смотря для чего. Для прогноза заболевания с опасным лечением, 75 - слабовато) для прогноза вкусная ли булочка? - возможно)
+20:50:33	 From Оля : это то понятно, то есть возможность переобучения и это еще хуже
+20:51:54	 From ThePureMind : А что по размерам датасетов? 
+20:51:56	 From Dmitrii : олимпиадные с пересечением
+20:53:45	 From Ilya Sokolov : с раком ложноположительная тоже очень плохо, большой вопрос что хуже)))
+20:54:21	 From evgeny b : + второй анализ. теорема Байса в помощь)
+20:54:32	 From evgeny b : *Байеса
+20:54:47	 From Оля : Предсказываешь предсказываешь на бирже, а он бац и провал) бац и вырос в 10 раз))
+20:55:26	 From ThePureMind : каковы размеры датасетов в задаче 1 и 2
+20:57:33	 From Mikhail Gorshkov : В продакшне где-нибудь используется С++? Python же достаточно медленный.
+20:57:47	 From Оля : Многие питоняшки уходят в ML))
+20:57:55	 From Vasily Sukharev  To  All Panelists : python быстрый. написано же :))
+20:58:27	 From Ilya Sokolov : numpy написана на С++, и потому скорость такая же
+20:58:30	 From Оля : Bumpy pandas у них свои структуры данных - там намного быстрее)
+20:58:44	 From Оля : тьфу numpy
+20:59:55	 From Оля : Как можно сравнивать язык разметки и скриптовые?)
+21:00:10	 From Mikhail Gorshkov : Это вообще не языки по сути - html и css
+21:00:14	 From Оля : ага
+21:00:15	 From Vasily Sukharev  To  All Panelists : Там технологии, а не языки
+21:00:19	 From Ilya Sokolov : +
+21:00:32	 From Оля : Есть сравнение нормальные
+21:00:39	 From ds.andreev  To  All Panelists : там скорее вопрос в том кто чем пользуется
+21:00:57	 From ds.andreev  To  All Panelists : а не какой язык лучше
+21:01:44	 From Vasily Sukharev  To  All Panelists : Отдельный курс или модуль ?
+21:01:53	 From Dzhabrailov : Будет ли большой проблемой если не знаком ни с одной из библиотек из этих ?
+21:01:55	 From ds.andreev  To  All Panelists : =
+21:01:55	 From Alex Zaytsev : слышно
+21:01:55	 From Vasily Sukharev  To  All Panelists : Слышим
+21:01:56	 From Azat_Burkhanov : 2
+21:01:56	 From Григорий Балабанов : 2
+21:01:56	 From ds.andreev  To  All Panelists : +
+21:01:56	 From ThePureMind : 2
+21:01:57	 From Zaraysky : 2
+21:01:57	 From Vladimir : 2
+21:01:57	 From timur aipov : 2
+21:01:57	 From ds.andreev  To  All Panelists : 2
+21:01:57	 From Алексей : 2
+21:01:57	 From e.soskov  To  All Panelists : 2
+21:01:57	 From Anatoly Chichikov : 2
+21:01:57	 From oleg : 2
+21:01:58	 From Evgeny  To  All Panelists : 2
+21:01:58	 From Stanislav : 2
+21:01:58	 From Zhan : 2
+21:01:58	 From AN_QWE : 2
+21:01:58	 From Alex  To  All Panelists : 2
+21:01:58	 From Павел Вишин  To  All Panelists : 2
+21:01:58	 From Vladimir Vetoshkin : 2
+21:01:58	 From Anton  To  All Panelists : 2
+21:01:59	 From Artem  To  All Panelists : 2
+21:01:59	 From Ilya Sokolov : 2
+21:01:59	 From Ignatova Natalia : 2
+21:01:59	 From Dmitrii : 2
+21:02:00	 From Анна Савиновских  To  All Panelists : 2
+21:02:42	 From Dzhabrailov : Дублирую. Будет ли большой проблемой если не знаком ни с одной из библиотек этих ?
+21:04:43	 From Оля : так и не смогла Matlab осилить в инсте
+21:05:11	 From Оля : Вы давно с питоном работаете?
+21:05:11	 From Alex Zaytsev : ))) 
+21:06:10	 From Оля : this.c
+21:06:26	 From Оля : у меня показывает)
+21:06:45	 From Оля : С print правда
+21:06:55	 From Mikhail Gorshkov : А что это за this и что он должен был показать?
+21:07:05	 From Оля : это дзен питона в тексте
+21:07:32	 From Azat_Burkhanov : там всякие правила как писать лучше код
+21:07:34	 From Roman Zakharov : материалы в докере будут?
+21:07:36	 From Оля : print(this.c)
+The Zen of Python, by Tim Peters
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+21:09:47	 From Mikhail Gorshkov : микросекунды
+21:09:51	 From Alex Zaytsev : а можно анаконду с python 2 и python 3 независимо использовать? Где об этом почитать? В параллель учусь на другом курсе, где python 2
+21:10:49	 From Оля : Вроде можно
+21:10:53	 From Григорий Балабанов : можно
+21:10:58	 From Оля : там сверху выбираешь
+21:11:36	 From Оля : Есть кто не знает питон?)
+21:11:37	 From Alex Zaytsev : так анаконду же скачиваешь с опреденной версией питона. Получается, нужна еще одна анаконда?
+21:12:07	 From Григорий Балабанов : ставьте обе анаконды
+21:12:24	 From Оля : ставьте просто питон)
+21:13:29	 From Mikhail Gorshkov : А что это за анаконда? Что она дает?
+21:13:48	 From Alex Zaytsev : спасибо =) Я как раз на убунте)
+21:14:05	 From Vladimir : если Pyt уже установлен, можно Анаконду ставить?
+21:15:26	 From Stanislav : Да, с перезаписью проблем не будет
+21:19:03	 From Alex  To  All Panelists : Насколько по ходу курса придется углубиться в нетривиальные вопросы програмиирования на Python? Классы, декораторы и пр.  Т.е. то, что вызывает определенные трудности на начальном этапе изучения языка
+21:23:33	 From Alex Zaytsev : отображение
+21:23:46	 From Mikhail Gorshkov : за константное только хеш-таблица
+21:26:31	 From Ilya Sokolov : но лучше без циклов))) map'ится, где возможно
+21:26:43	 From Mikhail Gorshkov : ага. map/reduce
+21:27:04	 From Stanislav : чем лучше, кроме как компактностью кода?
+21:27:16	 From Оля : while используется в основном только для зацикливания))
+21:27:19	 From Mikhail Gorshkov : производительностью. нутро-то на С написано
+21:27:42	 From Ilya Sokolov : скорость в разы быстрее)) иногда более, чем в 1000 раз
+21:29:19	 From Ilya Sokolov : def greet(self, loud='') лучше - логичнее, что должно передаваться в функцию
+21:30:16	 From Mikhail Gorshkov : почему loud='' лучше, чем loud=False?
+21:30:50	 From Alex Zaytsev : Давайте дальше, а то время)
+21:31:09	 From Ilya Sokolov : когда вызываешь хелпу по функции, можно подумать, что принимает булевые значения, а не работает со строкой
+21:32:12	 From Оля : На самое интересное времени маловато
+21:32:44	 From ds.andreev  To  All Panelists : самое интересное впереди ;)
+21:32:52	 From Оля : Shape размерность маттрицы?
+21:33:01	 From Alex Zaytsev : да
+21:33:03	 From Ilya Sokolov : ага
+21:33:33	 From Mikhail Gorshkov : Именно нулей и единиц? Массива двоек нет?:)
+21:33:50	 From Оля : а расскажите про float64
+21:34:39	 From AN_QWE : np.full((2, 2), 2) - массив двоек 2 на два)
+21:35:19	 From Mikhail Gorshkov : единицы и нули какое-то, видимо, особо важное значение имеют
+21:36:11	 From Alex Zaytsev : ну, единичные матрица, например
+21:36:21	 From Ilya Sokolov : np.random.seed(0)
+21:36:26	 From Mikhail Gorshkov : да, ясно, спасибо
+21:38:21	 From Оля : Это же только свойства numpy?
+21:38:26	 From Ilya Sokolov : да
+21:38:36	 From Оля : спс
+21:39:23	 From Zaraysky : 10,11
+21:39:24	 From ds.andreev  To  All Panelists : 1, 2
+21:39:25	 From Mikhail Gorshkov : 3 7
+21:39:29	 From Ilya Sokolov : 2,36,7
+21:39:30	 From Оля : 6, 10
+21:39:33	 From Vladimir : 12
+21:39:35	 From Vladimir : 56
+21:39:39	 From Anton  To  All Panelists : 2 3 6 7
+21:39:39	 From Roman Zakharov : 2,3,6,7
+21:39:40	 From Stanislav : 1 5
+21:39:41	 From Zaraysky : 2,3 6,7
+21:39:44	 From Dzhabrailov : 6 10
+21:39:49	 From Dmitrii : 2,3 6,7
+21:39:49	 From AN_QWE : 234, 678
+21:39:57	 From Evgeny  To  All Panelists : 7
+11
+21:40:04	 From Vladimir Vetoshkin : [[1,2][5,6,7]]
+21:40:05	 From Taras Stotsky : 2, 3
+21:40:07	 From Taras Stotsky : 6, 7
+21:40:22	 From Vladimir : да,
+21:40:24	 From Vladimir : 23
+21:40:25	 From Vladimir : 67
+21:40:26	 From Оля : Эх))
+21:41:00	 From Ilya Sokolov : для этого есть a.copy()
+21:41:12	 From Alex Zaytsev : by ref, by val
+21:42:47	 From Оля : dtype надо всегда указывать?
+21:43:12	 From Ilya Sokolov : лучше указывать, а то иногда можно поймать неприятные баги
+21:43:13	 From Alex Zaytsev : опционально, насколько помню
+21:43:33	 From Оля : Ок спс)
+21:45:07	 From Mikhail Gorshkov : а если у них к-во столбцов разное?
+21:45:30	 From Оля : иногда неявное - это путает)
+21:46:26	 From Оля : Где-то в сети были картинки на тему сложения матриц в numpy
+21:46:32	 From Оля : схемки
+21:46:52	 From Оля : О Титаник это самый частый пример
+21:46:57	 From Оля : классика жанра)
+21:48:41	 From Оля : http://www.scipy-lectures.org/_images/numpy_broadcasting.png
+21:48:54	 From Mikhail Gorshkov : спс
+21:49:10	 From Оля : Распечатать и повесить на дверь)
+21:49:19	 From Stanislav : спасибо, очень наглядно
+21:49:30	 From Оля : ага пжта)
+21:52:21	 From ds.andreev  To  All Panelists : а Name каким является?
+21:52:23	 From Zaraysky : 2
+21:52:23	 From Stanislav : 2
+21:52:24	 From Alex Zaytsev : 2
+21:52:24	 From AN_QWE : 2
+21:52:25	 From Mikhail Gorshkov : 2
+21:52:25	 From Vladimir Vetoshkin : 2
+21:52:25	 From Dzhabrailov : 2
+21:52:26	 From Artem  To  All Panelists : 2
+21:52:26	 From Ignatova Natalia : 2
+21:52:26	 From Ilya Sokolov :  2
+21:52:26	 From e.soskov  To  All Panelists : 2
+21:52:27	 From Anton  To  All Panelists : 2
+21:52:27	 From Evgeny  To  All Panelists : 2
+21:52:27	 From oleg : 2
+21:52:28	 From Anatoliy Pozdeyev : 2
+21:52:28	 From Vladimir : 2
+21:52:28	 From Алексей : 2
+21:52:29	 From Dmitrii : 2
+21:52:39	 From ds.andreev  To  All Panelists : ок
+21:53:01	 From Оля : https://www.safaribooksonline.com/library/view/elegant-scipy/9781491922927/assets/elsp_0105.png
+21:54:37	 From Оля : Это место пассажира
+21:57:29	 From Mikhail Gorshkov : parch - parents/children
+21:59:21	 From Оля : пока не применишь - читать документацию мало что усваивается)
+22:00:03	 From Alex Zaytsev : применяй, все в твоих руках)
+22:00:13	 From Оля : ДЗ ждет нас)
+22:00:14	 From Azat_Burkhanov : руками нужно все попробывать) 
+22:00:16	 From Dzhabrailov : ++, но возможности завораживают, что мотивирует к более плотному изучению.
+22:01:47	 From Оля : Сколько должно быть данных, чтоб возможно было бы что-то обучать?)
+22:04:11	 From Оля : там данные должны быть одного порядка, чтоб нормализовать данные?
+22:04:45	 From Azat_Burkhanov : 2
+22:04:47	 From Zaraysky : 2
+22:04:48	 From ds.andreev  To  All Panelists : 2
+22:04:48	 From Vladimir Vetoshkin : 2
+22:04:49	 From e.soskov  To  All Panelists : 2
+22:04:49	 From Evgeny  To  All Panelists : 2
+22:04:49	 From Anton  To  All Panelists : 2
+22:04:49	 From AN_QWE : 2
+22:04:50	 From Ignatova Natalia : 2
+22:04:50	 From Alex Zaytsev : 2
+22:04:50	 From Artem  To  All Panelists : 2
+22:04:50	 From Anatoly Chichikov : 2
+22:04:53	 From oleg  To  All Panelists : 2
+22:04:54	 From Vladimir : 2
+22:04:56	 From Алексей : 2
+22:05:01	 From Ilya Sokolov : 2, иногда 1
+22:05:09	 From Анна  To  All Panelists : 2
+22:06:01	 From Ilya Sokolov : что делает pipepline?
+22:06:13	 From Оля : А еще раз что такое Pipepline
+22:06:15	 From Оля : ))
+22:06:29	 From Alex Zaytsev : как каналы в баше
+22:08:48	 From oleg  To  All Panelists : как определяется точность?
+22:11:18	 From Vasily Sukharev  To  All Panelists : что по дз у нас ?
+22:13:06	 From Оля : жеесть
+22:13:32	 From Vasily Sukharev  To  All Panelists : до конца курса доживут не многие
+22:13:43	 From Ilya Sokolov : весело...
+22:13:46	 From Оля : Как учат плавать, выкиньте на середине реки))
+22:13:56	 From Vasily Sukharev  To  All Panelists : :D
+22:14:21	 From Azat_Burkhanov : главное не утонуть)
+22:14:23	 From Оля : выполним первое задание и побежим на собеседования
+22:14:29	 From Vladimir Vetoshkin : l - load
+22:14:29	 From Ilya Sokolov : +
+22:15:07	 From Vasily Sukharev  To  All Panelists : а ведь это еще кому-то проверять потом придется...
+22:15:10	 From Alex Zaytsev : т.е. первое задание научиться программировать на питоне?)
+22:15:20	 From Оля : Библиотеки можно использовать?
+22:15:27	 From Оля : или парсеры сами писать?
+22:15:38	 From Alex Zaytsev : сказали что можно
+22:16:19	 From Alex  To  All Panelists : Список где спарсить или скачать данные?
+22:16:32	 From Оля : 2 пункт потом кто использовать будет?)))
+22:16:45	 From Оля : 40 документов с ссылками
+22:16:46	 From Azat_Burkhanov : спарсить slack )
+22:16:47	 From Оля : )))
+22:16:52	 From Григорий Балабанов : openweathermap.org
+22:17:18	 From Zaraysky : Друзья, не пишите сюда ссылки, лучше в слак
+22:17:19	 From Оля : Мои глаза со лба не слезают))
+22:17:25	 From AN_QWE : 2 пункт - вопрос про сайты, которые предоставляют открытые данные? 
+22:17:30	 From oleg  To  All Panelists : ахаха
+22:17:52	 From AN_QWE : или вообще любые сайты, которые можно парсить с целью получить хорошие данные?
+22:17:54	 From Оля : тот же самый?
+22:17:56	 From Taras Stotsky : там же еще третий пункт ДЗ есть в доке?
+22:18:02	 From Оля : Так данные смешаются?
+22:18:03	 From Онлайн Otus : https://docs.google.com/forms/d/1KCRfBh4OvVHD4GwYa7S5-7PqgbJr632ujBSH_lFIrfk/edit
+22:18:10	 From Оля : или он заново?
+22:25:10	 From Оля : порядковый написала)
+22:25:20	 From AN_QWE : толерантно!
+22:25:31	 From Оля : Потому что обычно целые числа)
+22:25:56	 From Онлайн Otus : https://otus.ru/polls/1722/
+22:26:04	 From Vasily Sukharev  To  All Panelists : он у всех на почте уже
+22:26:50	 From Григорий Балабанов : спасибо!
+22:26:51	 From AN_QWE : не надо, математику лучше подробнее объяснить)
+22:26:53	 From Оля : спасибо
+22:26:55	 From AN_QWE : спасибо!
+22:27:00	 From ds.andreev  To  All Panelists : спасибо!
+22:27:04	 From Ilya Sokolov : спасибо!
+22:27:05	 From Evgeny  To  All Panelists : Спасибо.
+22:27:09	 From Zaraysky : Спасибо, материала хватит на неделю :)
+22:27:17	 From Taras Stotsky : Спасибо
+22:27:22	 From Anatoliy Pozdeyev : спасибо!
+22:27:25	 From Андрей Щукин : Спасибо
+22:27:27	 From ThePureMind : всем спасибо!
+22:27:29	 From Оля : В слаку)
+22:27:30	 From ThePureMind : пока!
+22:27:30	 From Vladimir : Спасибо!
+22:27:36	 From Dzhabrailov : пиши в слак те кого не пригласили в слак ) 
+22:27:38	 From Anton  To  All Panelists : До свидания, спасибо
+22:27:42	 From Оля : ))
+22:27:49	 From Алексей : досвидание
+22:28:04	 From AN_QWE : канал general?

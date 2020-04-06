@@ -1,0 +1,208 @@
+19:57:44	 From Ilya Sokolov  To  All Panelists : Добрый вечер!
+19:58:01	 From Ilya Sokolov : Всем доброго вечера!
+19:58:20	 From Anton : добрый вечер
+19:58:22	 From Пользователь Otus : добрый вечер!
+19:58:46	 From Vladimir  To  All Panelists : Добрый вечер!
+19:59:21	 From Vladimir  To  All Panelists : 2
+19:59:22	 From Григорий Балабанов  To  All Panelists : <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet">
+19:59:30	 From Григорий Балабанов  To  All Panelists : добрый вечер!
+19:59:55	 From Anatoliy Pozdeyev : всем привет!
+20:00:02	 From Оля : Добрый вечер!
+20:00:12	 From Pavel : 2
+20:00:14	 From Ilya Sokolov : 2
+20:00:14	 From Григорий Балабанов  To  All Panelists : 2
+20:00:14	 From Anton : 2
+20:00:15	 From Оля : 2
+20:00:16	 From Anatoliy Pozdeyev : 2
+20:00:17	 From andrey : 2
+20:00:17	 From Алексей  To  All Panelists : Добрый вечер
+20:00:18	 From Алексей  To  All Panelists : 2
+20:00:19	 From Anatoly Chichikov : 2
+20:00:20	 From timur : 2
+20:00:22	 From Alex Zaytsev : 2
+20:02:02	 From Пользователь Otus : https://docs.google.com/forms/d/11sv_t_yyUUx9uz2SQTpsLPolex3bPlhGXAA2RzA85cQ/
+20:02:56	 From ThePureMind  To  All Panelists : vj;yj ccskre
+20:03:00	 From ThePureMind  To  All Panelists : можно ссылку
+20:03:03	 From ThePureMind  To  All Panelists : пожалуйстап
+20:03:13	 From Пользователь Otus  To  ThePureMind and  All Panelists : https://docs.google.com/forms/d/11sv_t_yyUUx9uz2SQTpsLPolex3bPlhGXAA2RzA85cQ/
+20:03:27	 From ThePureMind  To  All Panelists : да
+20:03:30	 From ThePureMind  To  All Panelists : спасибо
+20:17:00	 From aleksandr : это вы в юпитере нарисовали линию? 
+20:17:12	 From aleksandr : удобно)
+20:18:15	 From Ilya Sokolov : Было бы неплохо вывести реальную линию (пунктиром, например), что бы было нагляднее
+20:19:32	 From Алексей Белов  To  All Panelists : 2
+20:19:33	 From Ilya Sokolov : 2
+20:19:33	 From natellas : 2
+20:19:33	 From Azat : 2
+20:19:34	 From mariya zamyatina  To  All Panelists : 2
+20:19:34	 From Pavel : 2
+20:19:34	 From Anton : 2
+20:19:34	 From evgeny b : 2
+20:19:35	 From Vladimir  To  All Panelists : 2
+20:19:36	 From ThePureMind :  2
+20:19:37	 From Alex Zaytsev : 2
+20:19:37	 From Алексей  To  All Panelists : 2
+20:19:40	 From andrey : 2
+20:19:40	 From Pavel Kovalenko  To  All Panelists : 2
+20:19:42	 From Anatoliy Pozdeyev : 2
+20:19:45	 From dshubenok : 2
+20:24:24	 From Оля : Зачем нам выводить зависимость бета ноль от бета один?
+20:24:49	 From Оля : я вижу формулу)
+20:25:34	 From Vladimir  To  All Panelists : 2
+20:25:36	 From Pavel Kovalenko  To  All Panelists : 2
+20:25:44	 From Оля : Не особо
+20:26:24	 From Оля : не вижу систему уравнений
+20:26:26	 From Anton : получим бета1 из нее потом бета0
+20:26:46	 From Ilya Sokolov : на лабах дважды выводил))) лет 8 назад)))
+20:27:44	 From Оля : понятно
+20:30:46	 From Ilya Sokolov : выбросы подчистить))) из рандомного шума
+20:31:43	 From Pavel : 2
+20:31:44	 From natellas : 2
+20:31:45	 From Anton : 2
+20:31:45	 From dshubenok : 2
+20:31:45	 From Ilya Sokolov : 2
+20:31:46	 From aleksandr : 2
+20:31:46	 From andrey : 2
+20:31:47	 From Оля : 2
+20:31:47	 From Алексей  To  All Panelists : 2
+20:31:48	 From Anatoly Chichikov : 2
+20:31:48	 From Pavel Kovalenko  To  All Panelists : 2
+20:31:49	 From ThePureMind : 2
+20:31:52	 From evgeny b : 1.99
+20:32:10	 From Оля : 1.9(9)     :)))
+20:32:33	 From evgeny b : просто надо еще раз просмотреть ноутбук и усвоить)
+20:34:45	 From ThePureMind : что значит берем сэмпл
+20:35:02	 From Алексей Белов  To  All Panelists : выборку же
+20:36:14	 From Ilya Sokolov : от sample - выборка
+20:36:27	 From ThePureMind : 2
+20:36:29	 From natellas : 2
+20:36:30	 From dshubenok : 2
+20:36:30	 From evgeny b : 2
+20:36:34	 From Ilya Sokolov : 2
+20:36:37	 From aleksandr : 2
+20:43:40	 From Ilya Sokolov : а еще неплохо бы доверительные интервалы для B0, B1)))
+20:44:08	 From natellas : 2
+20:44:08	 From Anton : 2
+20:44:09	 From Ilya Sokolov : 2
+20:44:09	 From Pavel : 2
+20:44:10	 From dshubenok : 2
+20:44:12	 From Vladimir  To  All Panelists : 2
+20:44:15	 From Pavel Kovalenko  To  All Panelists : 2
+20:44:15	 From Anatoliy Pozdeyev : непонятно зачем
+20:44:23	 From dshubenok : тоже пока непонятно зачем
+20:44:28	 From Anatoliy Pozdeyev : зачем сводить nll  к rss
+20:44:31	 From Оля : И мне пока неясно как использовать
+20:46:22	 From Anatoliy Pozdeyev : т..е профит только в том что шум учитываем?
+20:46:50	 From Anatoliy Pozdeyev : 2
+20:46:52	 From dshubenok : 2
+20:53:54	 From Ilya Sokolov : 2
+20:53:54	 From ThePureMind : 2
+20:53:55	 From natellas : 2
+20:53:55	 From aleksandr : 2
+20:53:55	 From Anton : 2
+20:53:56	 From Оля : 2
+20:53:57	 From Pavel : 2
+20:53:58	 From Anatoliy Pozdeyev : 2
+20:53:59	 From dshubenok : 2
+20:54:01	 From Vladimir  To  All Panelists : 2
+20:54:03	 From evgeny b : 2
+20:54:17	 From Оля : Вот почему 2?) прям одни двойки у всех)))
+20:55:02	 From evgeny b : 42)
+20:57:47	 From Alex Zaytsev : квадратная
+20:58:18	 From ThePureMind :  n на n
+20:58:18	 From Pavel : n*n
+20:58:20	 From Anton : n
+20:58:21	 From Ilya Sokolov : n*n
+20:58:33	 From evgeny b : max(n,p), max(n, p)
+20:58:37	 From Anatoliy Pozdeyev : n*n
+20:58:57	 From timur : p+1xp+1
+20:59:04	 From Stanislav : p+1 на p+1
+20:59:04	 From natellas : p+1 * p+1
+20:59:09	 From Ilya Sokolov : ну у нас по идее p>n?
+20:59:16	 From Stanislav : x_T
+20:59:29	 From Оля : х_х
+20:59:31	 From Stanislav : p+1 на n
+21:00:22	 From timur : 3
+21:00:22	 From ThePureMind : 3
+21:00:23	 From Anatoliy Pozdeyev : 3
+21:00:23	 From Алексей  To  All Panelists : 3
+21:00:23	 From Pavel : 3
+21:00:24	 From evgeny b : 3
+21:00:24	 From natellas : 3
+21:00:25	 From Anton : 3
+21:00:25	 From Stanislav : 3
+21:00:26	 From Ilya Sokolov : 3
+21:00:44	 From Алексей Белов  To  All Panelists : n
+21:00:44	 From Оля : А если непонятно что писать?)
+21:00:55	 From timur : p?
+21:00:55	 From Alex Zaytsev : колву линено независмых строк или стобцов
+21:00:56	 From Stanislav : вопрос))
+21:01:18	 From Ilya Sokolov : в следующий раз листочком с ручкой запасусь...
+21:01:25	 From Оля : Нет я просто шучу про цифры
+21:01:29	 From natellas : p+1
+21:01:33	 From Anton : ранг полный? p+1
+21:04:45	 From Alex Zaytsev : аналитически не решается или численно? Или и так и так?
+21:04:54	 From Ilya Sokolov : и так и так
+21:11:51	 From aleksandr : Вопрос: линейная зависимость и мультиколлинеарность - это синонимы? 
+21:12:27	 From evgeny b : Насколько надо все это держать в уме при непосредственной работе в ds? Просто сейчас я все понял, понимаю смысл всех действий, что и зачем делаем. Но через месяц/два я все дословно, по формулам и разложения уравнений не вспомню(только с помощью гугла). Вот насколько это нужно постоянно держать в уме?
+21:13:20	 From Stanislav : мультиколлинеарность - высокая зависимость одного фактора от линейной комбинации других
+21:13:34	 From Dzhabrailov  To  All Panelists : евген ++ , я тоже об этом задумывался
+21:14:54	 From evgeny b : Спасибо.  
+21:15:14	 From Dzhabrailov  To  All Panelists : т.е. достаточно запомнить, что такое условно говоря линейная зависимость как , где и когда ее использовать?
+21:19:25	 From Stanislav : для чего нужна это полиномиальная, не легче просто добавить нелинейные фичи и все? Зачем всевозможные комбинации?
+21:20:21	 From evgeny b : мы будем рассматривать задачи с условной нехваткой фичей? как из этого выходить?
+21:21:58	 From Stanislav : 1
+21:22:18	 From Stanislav : полиномиальная - просто как пример, не факт что эффективный)
+21:22:28	 From evgeny b : да, видимо я предидущее объяснение не так понял. пересмотрю если будет непонятно в слаке спрошу)
+21:24:34	 From Ilya Sokolov : да полиномом и sin можно на интервале описать)))
+21:25:19	 From Anatoliy Pozdeyev : а тип зависимости, линейная или полиномиальная или еще что-то, это только по графикам определять или есть какие функции в библиотеках хитрые?
+21:25:31	 From Оля : Я не увидела а ошибку предсказания оценивали?
+21:28:22	 From Оля : это в чем? В процентах?
+21:28:59	 From Pavel : данные такие, поэтому и ошибка "большая"
+21:29:02	 From Оля : ясно
+21:35:31	 From Оля : А как эту менюшку вызывать?)
+21:35:50	 From Оля : спс)
+21:37:23	 From aleksandr : и как этот полином себя на тестовых данных покажет с регуляризацией?)
+21:38:01	 From Vladimir  To  All Panelists : не проще проверить несколько вариантов полинома
+21:38:13	 From Vladimir  To  All Panelists : ?
+21:39:27	 From Vladimir  To  All Panelists : спс
+21:39:45	 From Stanislav : всегда ли регуляризация показывает лучше результат? то есть нет смысла обучать обычную регрессию, сразу подбираем варианты с регуляризацией?
+21:49:17	 From Алексей  To  All Panelists : 4
+21:49:21	 From natellas : 4
+21:49:40	 From Алексей Белов  To  All Panelists : 4
+21:49:40	 From Stanislav : ответов к концу занятия все меньше и меньше)
+21:49:46	 From Ilya Sokolov : не совсем понятна в чем отличие MLE от MAP
+21:49:49	 From Anton : 4 раза пересмотреть надо)
+21:49:56	 From Stanislav : ++
+21:49:59	 From Ilya Sokolov : +
+21:50:28	 From Stanislav : штрафуем
+21:50:28	 From evgeny b : а последнее объяснение надо на свежую голову)
+21:52:16	 From aleksandr : т.е это как выбрасывание выбросов из выборки?
+21:52:40	 From aleksandr : понятно
+21:53:15	 From evgeny b : а можно построить модель с l1 регулляризацией и посмотреть те признаки которые она "занизила"?
+21:53:19	 From natellas : непонятно, как большие числа обращаются в нули? модуль напротив превращает их в большие суммы и выброс увеличивается
+21:53:42	 From Anatoliy Pozdeyev : а выбрасываться будут не только признаки в степени, но и линейные так?
+21:54:12	 From Ilya Sokolov : так градиент же) то от квадрата, а тут от линейной функции
+21:55:30	 From Ilya Sokolov : а почему при статистическом методе наименьших квадратов мы говорим об "обучении"?
+21:56:31	 From Пользователь Otus : https://docs.google.com/forms/d/16L-Reyn8QhbMsqb9DMRv9MfQ-x4vA_r39t9tUfCdxII/
+21:56:33	 From mariya zamyatina  To  All Panelists : когда использовать elastic net?
+21:56:43	 From Пользователь Otus : https://otus.ru/polls/1805
+21:58:19	 From Ilya Sokolov : Продублирую1) не совсем понятна в чем отличие MLE от MAP по смыслу2) а почему при статистическом методе наименьших квадратов мы говорим об "обучении"?
+21:58:20	 From evgeny b : если в двух словах. L2 - занижает большие коэффиценты, L1 - занижает незначительные признаки?
+21:59:46	 From Vladimir  To  All Panelists : регуляризация (L1, L2, Lasso) могжет рассматриваться как модификации МНК?
+22:03:03	 From aleksandr : можно где-нибудь прочитать про кейс с марсом?)
+22:06:46	 From Григорий Балабанов  To  All Panelists : спасибо!
+22:08:00	 From Vladimir  To  All Panelists : если вернуться к исходной постановке задачи МНК (без матриц), как в ней реализовать регуляризацию?
+22:14:45	 From aleksandr : круто
+22:17:04	 From Vladimir  To  All Panelists : спс
+22:17:07	 From Valentin  To  All Panelists : как много ресурсов требуется для реализации регресии на реальных данных?
+22:18:40	 From Valentin  To  All Panelists : спс
+22:18:42	 From Ilya Sokolov : Спасибо!
+22:18:46	 From Alex Zaytsev : спасибо за урок =)
+22:18:52	 From Anton : спасибо
+22:18:52	 From Vladimir  To  All Panelists : Спасибо!
+22:18:53	 From Anatoliy Pozdeyev : спасибо!
+22:18:56	 From Azat : спасибоо
+22:18:56	 From Ilya Sokolov : До свидания!
+22:19:01	 From Anton : до свидания
+22:19:04	 From Pavel Kovalenko  To  All Panelists : Спасибо!
